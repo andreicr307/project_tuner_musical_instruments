@@ -1,4 +1,4 @@
-# Project_Tuner_for_Musical_Instruments
+# Project Tuner for musical instruments implemented with R2R Digital Analog Converter
 Digital-analog converter made up of a resistive R2R network. 
 The DAC converter receives a 6-bit digital signal that it transforms into a single analog signal.
 
