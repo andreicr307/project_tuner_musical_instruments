@@ -13,3 +13,13 @@ User interface
 - The launchpad microcontroller MSP430G2553
 
 Software implementation in energia/arduino
+
+Authors:
+
+Andrei Cristian Cauia
+Cristian George Matei
+
+Scientific leaders:
+
+Cristina Marghescu
+Robert Dobre
