@@ -11,7 +11,7 @@ The DAC converter receives a 6-bit digital signal that it transforms into a sing
 
 User interface
 
-- For the user interface we used a 1602 LCD with which we can view the menu
+- For the user interface we used a 1602 LCD with we can view the menu
 - 3 buttons to navigate the menu
 - 6 LEDs, one for each bit of the DAC, to show which bits are active at certain times.
 - The launchpad microcontroller MSP430G2553 >>> https://energia.nu/pinmaps/msp-exp430g2/
