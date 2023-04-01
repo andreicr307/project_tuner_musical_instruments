@@ -16,10 +16,12 @@ Software implementation in energia/arduino
 
 Authors:
 
-Andrei Cristian Cauia
-Cristian George Matei
+- Andrei Cristian Cauia
+- Cristian George Matei
 
 Scientific leaders:
 
-Cristina Marghescu
-Robert Dobre
+- Cristina Marghescu
+- Robert Dobre
+
+Politehnica University Bucharest - Faculty of Electronics, Telecommunications and Information Technology
